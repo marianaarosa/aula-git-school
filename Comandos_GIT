@@ -13,3 +13,24 @@ git push origin master
 # Dando pusch em branch #
 git push origin funcionalidade1
 
+
+#Clonar um branch#
+git clone https://github.com/marianaarosa/aula-git-school.git
+
+# Verifica os branches#
+git branch -a
+
+# Copiou o branch funcionalidade1 #
+git checkout -b funcinalidade1 origin/funcionalidade1
+
+# Atualizar os branches #
+git pull
+
+# Subir os arquivos no branch master#
+git push origin master
+
+# Trazer os arquivos no branch master#
+git pull origin master
+
+
+
