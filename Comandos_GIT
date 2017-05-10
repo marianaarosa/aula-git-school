@@ -1,0 +1,15 @@
+git status
+git add
+git commit -m ''
+git checkout
+git init -> repositório
+
+# Repositório #
+git remote add origin https://github.com/marianaarosa/aula-git-school.git
+
+# Primeiro push #
+git push origin master
+
+# Dando pusch em branch #
+git push origin funcionalidade1
+
