@@ -1,2 +1,2 @@
 <?php phpinfo(); ?>
-<?="Teste_Commit";?>
+Olá
